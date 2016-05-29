@@ -1,4 +1,4 @@
-FROM debian:stretch
+FROM debian:8
 MAINTAINER František Dvořák <valtri@civ.zcu.cz>
 
 RUN apt-get update \
